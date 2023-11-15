@@ -1,0 +1,9 @@
+Inscribing the “deploy” function inscription, which represents declaring the address of asset deposited, identifier of swap pool , fees (including liquidity provider fees and service fees) and precision (optional)
+{
+“p”: “brc-20-swap”,
+“op”: “deploy”,
+“pool”: “trsp”,
+“addr”: “0xaaaaa”,
+“lpfee”: “0.004”,
+“sfee”: “0.001”,
+}
