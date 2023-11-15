@@ -1,0 +1,9 @@
+Inscribing the “burn” function inscription, which represents withdrawing a certain amount of liquidity provider tokens from the liquidity pool.
+{
+“p”: “brc-20-lp”,
+“op”: “burn”,
+“pool”: “trsp”,
+“tick0”: “btc”,
+“tick1”: “ordi”,
+“amt”: “100”,
+}
