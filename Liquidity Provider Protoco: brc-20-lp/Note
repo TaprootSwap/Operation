@@ -1,0 +1,9 @@
+When minting brc-20-lp, the user’s balance of the corresponding assets is checked through on-chain data and inscription. If the balance is insufficient, it will be considered invalid.
+
+When minting brc-20-lp, mints provide a balance to only the first owner of the mint function inscription.
+
+When transferring  brc-20-lp, transfers deduct from the sender's balance and add to the receiver's balance.
+
+When burning brc-20-lp, it will be invalid if it exceeds the user’s balance.
+
+When burning brc-20-lp, only the first owner of the burn function inscription has a balance deducted.
