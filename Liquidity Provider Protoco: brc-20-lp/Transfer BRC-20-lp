@@ -1,0 +1,9 @@
+Inscribing the “transfer” function inscription, which represents transferring a certain amount of liquidity provider tokens.
+{
+“p”: “brc-20-lp”,
+“op”: “transfer”,
+“pool”: “trsp”,
+“tick0”: “btc”,
+“tick1”: “ordi”,
+“amt”: “1000”,
+}
