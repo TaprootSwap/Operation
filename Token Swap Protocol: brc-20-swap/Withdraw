@@ -1,0 +1,9 @@
+Inscribing the “withdraw” function inscription, which represents withdrawing the assets that have been deposited.
+{
+“p”: “brc-20-swap”,
+“op”: “withdraw”,
+“pool”: “trsp”,
+“tick”: “btc”,
+“amt”: “0.01”,
+“feerate”: “200”,
+}
