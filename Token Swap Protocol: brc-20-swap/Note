@@ -1,0 +1,7 @@
+When deploying the initialization of brc-20-swap, it only serves as a declaration of relevant settings and does not affect the state
+
+When performing a swap, the input balance must be less than the deposited asset balance, otherwise it is considered invalid 
+
+When performing a swap, Inscribing the “swap” inscription declares the swap behavior, and transferring the inscription does not affect the state.
+
+When performing a withdrawal, Inscribing the “withdraw” inscription declares the retrieval behavior, and transferring the inscription does not affect the state
