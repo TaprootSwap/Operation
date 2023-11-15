@@ -1,0 +1,10 @@
+Inscribing the “swap” function inscription, which represents swapping with the liquidity pool.the inscription can be divided into “swap-exact-input” and “swap-exact-output”
+{
+“p”: “brc-20-swap”,
+“op”: “swap-exact-input”,
+“pool”: “trsp”,
+“tick0”: “btc”,
+“amt0”: “0.01”,
+“tick1”: “ordi”,
+“minamt1”: “990”,
+}
